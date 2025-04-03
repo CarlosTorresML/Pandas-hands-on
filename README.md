@@ -57,7 +57,7 @@ Cada ejercicio está organizado en su propia carpeta y representa un mini-proyec
 
 ## 🧰 Herramientas utilizadas
 
-- Python 3.x
+- Python 3
 - Pandas
 
 ## 📁 Estructura de carpetas
