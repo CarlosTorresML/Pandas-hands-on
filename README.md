@@ -1,4 +1,4 @@
-# 🐼 Pandas Practice Tasks (In 🇬🇧 English, go down for Spanish 🇪🇸 ⬇️)
+# 🐼 Pandas Practice Tasks (🇬🇧 English, go down ⬇️ for Spanish 🇪🇸)
 
 Welcome to my Pandas practice repository!  
 This project contains a collection of hands-on exercises focused on data manipulation and analysis using the Pandas library in Python.
