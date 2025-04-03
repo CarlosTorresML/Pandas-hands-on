@@ -15,7 +15,7 @@ Each task is organized in its own folder and represents a standalone mini-projec
 
 ## 🧰 Tools used
 
-- Python 3.x
+- Python 3
 - Pandas
 
 ## 📁 Folder structure
