@@ -68,4 +68,13 @@ Cada carpeta contiene una tarea con:
 - Un `README.md` explicativo de la tarea
 - Archivos generados como salida (si aplica)
 
-### Ejemplo:
+
+## 📌 Objetivo
+
+Este repositorio me ayuda a consolidar mis habilidades en análisis de datos y construir un portafolio de ejemplos prácticos que puedo reutilizar o compartir.  
+También es un archivo en crecimiento de técnicas útiles con Pandas.
+
+---
+
+¡Explora, reutiliza y siéntete libre de contribuir! 💡
+
